@@ -1,0 +1,17 @@
+source ~/.vim/plugin/coc.vim
+Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-surround'
+Plug 'editorconfig/editorconfig-vim'
+source ~/.vim/plugin/floaterm.vim
+"Plug 'prabirshrestha/vim-lsp'
+"Plug 'mattn/vim-lsp-settings'
+"Plug 'prabirshrestha/asyncomplete.vim'
+"Plug 'prabirshrestha/asyncomplete-lsp.vim'
+Plug 'sheerun/vim-polyglot'
+Plug 'dracula/vim'
+Plug 'tmsvg/pear-tree'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-fugitive'
+Plug 'makerj/vim-pdf'
+Plug 'fnune/base16-theme'
